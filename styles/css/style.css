@@ -479,7 +479,7 @@ dd {
     }
 
     .dl-horizontal dd {
-        margin-left: 102px;
+        margin-left: 212px;
     }
 }
 
@@ -1740,7 +1740,7 @@ submit
 }
 
 .text-upper {
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 
 .text-lead {
