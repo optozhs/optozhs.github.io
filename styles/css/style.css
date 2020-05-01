@@ -1740,7 +1740,7 @@ submit
 }
 
 .text-upper {
-    text-transform: uppercase;
+    text-transform: capitalize;
 }
 
 .text-lead {
