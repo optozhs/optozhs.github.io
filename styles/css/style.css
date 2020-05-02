@@ -573,8 +573,8 @@ table > thead > tr > th {
 
     .table-responsive thead tr {
         position: absolute;
-        top: 200px;
-        left: 200px;
+        top: -9999px;
+        left: -9999px;
     }
 
     .table-responsive tbody th,
