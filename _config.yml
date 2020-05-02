@@ -2,7 +2,7 @@
 name: 张浩石
 location: 北京
 company: 北航
-position: 没想好
+position: 博后
 github: https://github.com/
 facebook: https://www.facebook.com/
 phone: +393331806579
@@ -16,4 +16,3 @@ exclude: ['README.md']
 
 # Build settings
 markdown: kramdown
-
