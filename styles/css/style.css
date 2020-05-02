@@ -478,7 +478,7 @@ dd {
         white-space: nowrap;
     }
 	    .dl-horizontal dd {
-        margin-left: 112px;
+        margin-left: 108px;
     }
 }
 
@@ -6563,4 +6563,3 @@ h1, h2, h3, h4, h5, h6 {
   display: table;
   clear: both;
 }
-
